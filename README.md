@@ -1,5 +1,6 @@
 # rust-notes
-My notes while trying to enhance my knowledge of the Rust programming language
 
-following the official Rust Book:
+The notes are organized/strucutred in a similar way to the official "Rust Programming Language" / the "Rust book"
+
+Here is the official resource:
 https://doc.rust-lang.org/book/title-page.html
