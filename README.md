@@ -1,6 +1,6 @@
 # rust-notes
 
-The notes are organized/strucutred in a similar way to the official "Rust Programming Language" / the "Rust book"
+The notes are organized/structured in a similar way to the official "Rust Programming Language" / the "Rust book"
 
 1. hello_world.rs
 2. variables_mutability.rs
